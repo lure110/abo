@@ -1,0 +1,105 @@
+{
+  "sidebar-primary": {
+    "search-2": {
+      "title": ""
+    },
+    "categories-2": {
+      "title": "",
+      "count": 0,
+      "hierarchical": 0,
+      "dropdown": 0
+    },
+    "recent-posts-2": {
+      "title": "",
+      "number": 5
+    },
+    "recent-comments-2": {
+      "title": "",
+      "number": 5
+    },
+    "archives-2": {
+      "title": "",
+      "count": 0,
+      "dropdown": 0
+    }
+  },
+  "sidebar-shop-filter": {
+    "woocommerce_product_categories-2": {
+      "title": "Categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 0,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": "",
+      "classes": ""
+    },
+    "woocommerce_price_filter-2": {
+      "title": "Price",
+      "classes": ""
+    },
+    "woocommerce_layered_nav-2": {
+      "title": "Brands",
+      "attribute": "brand",
+      "display_type": "list",
+      "query_type": "or",
+      "classes": ""
+    },
+    "woocommerce_product_tag_cloud-2": {
+      "title": "Product tags",
+      "classes": ""
+    }
+  },
+  "f-col-1": {
+    "text-7": {
+      "title": "",
+      "text": "<a href=\"https:\/\/airi.la-studioweb.com\/furniture\/\"><img width=\"259\" height=\"27\" src=\"https:\/\/airi.la-studioweb.com\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/AIRIFURNITURE-black.png\" class=\"image wp-image-226  attachment-full\" alt=\"Airi\"><\/a>",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 margin-top-25"
+    },
+    "text-4": {
+      "title": "",
+      "text": "His verterem consectetuer consequuntur ne, no virtute atomorum usuu molestie consul",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 element-max-width-280"
+    },
+    "custom_html-2": {
+      "title": "",
+      "content": "<a href=\"#\">FIND STORE<\/a><span class=\"padding-left-10 padding-right-10\" style=\"color: #D8D8D8\">|<\/span><a href=\"#\">ENGLISH<\/a>",
+      "classes": ""
+    }
+  },
+  "f-col-2": {
+    "nav_menu-2": {
+      "title": "COMPANY",
+      "nav_menu": "Company Navigation",
+      "classes": "font-size-11"
+    }
+  },
+  "f-col-3": {
+    "nav_menu-3": {
+      "title": "USERFULL",
+      "nav_menu": "Userfull Navigation",
+      "classes": "font-size-11"
+    }
+  },
+  "f-col-4": {
+    "yikes_easy_mc_widget-2": {
+      "title": "SING UP FOR THE LATEST NEWS & DEAL",
+      "form_id": "1",
+      "form_description": "",
+      "submit_text": "SUBSCRIBE",
+      "classes": "easy_mc__style8"
+    },
+    "text-5": {
+      "title": "",
+      "text": "[la_social_link]",
+      "filter": true,
+      "visual": true,
+      "classes": "font-size-20 text-color-secondary"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+:root {
+    --color-green: #6ab04c;
+    --color-red: #eb4d4b;
+}
+
+.lighthouse-badge {
+    font-weight: 400;
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 2px 4px;
+    border-radius: 2px;
+    border-left: 3px solid rgba(0, 0, 0, 0.25);
+}
+.lighthouse-lite-icon {
+    background-color: #F39C12;
+    color: #ffffff;
+}
+.lighthouse-pro-icon {
+    background-color: #9B59B6;
+    color: #ffffff;
+}
+.lighthouse-new-icon {
+    background-color: var(--color-green);
+    color: #ffffff;
+}
+
+.lighthouse-pro-label { opacity: 0.75; cursor: not-allowed !important; }
+
+
+.lhf-notice {
+    margin: 0 0 4px 0;
+    background-color: #ffffff;
+    border-left: 3px solid #ffffff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 1px 12px;
+}
+.lhf-notice-error {
+    border-color: var(--color-red);
+}
+.lhf-notice-warning {
+    border-color: #E67E22;
+}
+.lhf-notice-success {
+    border-color: var(--color-green);
+}
+
+.lhf-stats {
+    margin: 32px 0 16px 0;
+    color: #666666;
+}
+.lhf-stat-element {
+    font-size: 30px;
+    padding: 4px 0 0 8px;
+    margin: 0 16px 16px 0;
+}
+.lhf-stat-element span {
+    display: block;
+    font-size: 11px;
+    font-weight: 400;
+    margin: 6px 0 0 0;
+}
+.lhf-speedfactor {
+    border-color: #8E44AD;
+}
+.lhf-speedfactor svg {
+    max-width: 128px;
+}
+
+/* 'recommended'/'use with caution' labels */
+.lhfr,
+.lhfw,
+.lhfn,
+.lhfb {
+    text-transform: uppercase;
+    font-size: 10px;
+    display: inline-block;
+    padding: 2px 8px;
+    background-color: var(--color-green);
+    color: #ffffff;
+    border-radius: 2px;
+    border-left: 3px solid rgba(0, 0, 0, 0.25);
+}
+.lhfr {
+    background-color: var(--color-green);
+}
+.lhfw {
+    background-color: var(--color-red);
+}
+.lhfn {
+    background-color: #3498DB;
+}
+.lhfb {
+    background-color: #2c3e50;
+}
+
+
+
+.li-errors {
+    height: 250px;
+    overflow: scroll;
+    padding: 2px;
+    background-color: #faf9f7;
+    border: 1px solid #cccccc;
+}
+.li-main {
+    padding: 0;
+    margin: 0;
+}
+.li-error {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 12px;
+    color: #0366d6;
+    padding: 2px 4px 6px;
+    border-bottom: 1px solid #ececec;
+    list-style: none;
+    list-style-type: none;
+}
+.li-more {
+    padding: 2px;
+    border-bottom: 2px solid #cccccc;
+}
+.notice .notice-warning{
+	display:none!important;
+}

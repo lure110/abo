@@ -1,0 +1,101 @@
+{
+  "sidebar-primary": {
+    "search-2": {
+      "title": ""
+    },
+    "categories-2": {
+      "title": "",
+      "count": 0,
+      "hierarchical": 0,
+      "dropdown": 0
+    },
+    "recent-posts-2": {
+      "title": "",
+      "number": 5
+    },
+    "recent-comments-2": {
+      "title": "",
+      "number": 5
+    },
+    "archives-2": {
+      "title": "",
+      "count": 0,
+      "dropdown": 0
+    }
+  },
+  "sidebar-shop-filter": {
+    "woocommerce_product_categories-2": {
+      "title": "Categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 0,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": "",
+      "classes": ""
+    },
+    "woocommerce_price_filter-2": {
+      "title": "Price",
+      "classes": ""
+    },
+    "woocommerce_layered_nav-2": {
+      "title": "Brands",
+      "attribute": "brand",
+      "display_type": "list",
+      "query_type": "or",
+      "classes": ""
+    },
+    "woocommerce_product_tag_cloud-2": {
+      "title": "Product tags",
+      "classes": ""
+    }
+  },
+  "f-col-1": {
+    "text-6": {
+      "title": "",
+      "text": "<a href=\"https:\/\/airi.la-studioweb.com\/furniture\/\"><img src=\"https:\/\/airi.la-studioweb.com\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/AIRIFURNITURE-white.png\" alt=\"Airi\" width=\"259\" height=\"27\" \/><\/a>",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 margin-top-25"
+    },
+    "text-2": {
+      "title": "",
+      "text": "Etiam imperdiet mauris lacus, id bibendum massa tincidunt nec. Praesent efficitur sagittis ullamcorper. Maecenas tempor portti",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 font-size-14"
+    },
+    "text-3": {
+      "title": "",
+      "text": "[la_social_link]",
+      "filter": true,
+      "visual": true,
+      "classes": "font-size-18"
+    }
+  },
+  "f-col-2": {
+    "nav_menu-2": {
+      "title": "COMPANY",
+      "nav_menu": "Company Navigation",
+      "classes": "font-size-11"
+    }
+  },
+  "f-col-3": {
+    "nav_menu-3": {
+      "title": "USERFULL",
+      "nav_menu": "Userfull Navigation",
+      "classes": "font-size-11"
+    }
+  },
+  "f-col-4": {
+    "contact_info-3": {
+      "title": "CONTACT US",
+      "workhours": "Monday - Friday: 9:00 - 19:00",
+      "phone": "(+612) 2531 5600",
+      "email": "info@la-studioweb.com",
+      "address": "PO Box 1622 Colins Street West Victoria 8077 Australia",
+      "classes": "font-size-11"
+    }
+  }
+}

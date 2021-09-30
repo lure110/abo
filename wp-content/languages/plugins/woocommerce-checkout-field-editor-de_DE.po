@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-21 14:05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: WooCommerce - woocommerce-checkout-field-editor\n"
+
+#: includes/class-wc-checkout-field-editor.php:554
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "Hinweise zu deiner Bestellung, beispielsweise besondere Hinweise zur Zustellung."
+
+#: woocommerce-checkout-field-editor.php:148
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-checkout-field-editor.php:147
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: woocommerce-checkout-field-editor.php:130
+msgid "Settings"
+msgstr "Settings"
+
+#. translators: %s: WooCommerce link
+#: woocommerce-checkout-field-editor.php:102
+msgid "WooCommerce Checkout Field Editor requires %s to be installed and active."
+msgstr ""
+
+#: templates/emails/email-addresses.php:50
+#: templates/emails/plain/email-addresses.php:37
+#: templates/order/order-details-customer.php:54
+msgid "Shipping address"
+msgstr "Versandadresse"
+
+#: templates/emails/email-addresses.php:34
+#: templates/order/order-details-customer.php:37
+#: templates/order/order-details-customer.php:56
+msgid "N/A"
+msgstr "N/A"
+
+#: templates/emails/email-addresses.php:31
+#: templates/emails/plain/email-addresses.php:20
+#: templates/order/order-details-customer.php:34
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: includes/wc-checkout-field-functions.php:686
+msgid "yes"
+msgstr "ja"
+
+#. translators: %s: Invalid email address
+#: includes/wc-checkout-field-functions.php:564
+msgid "(%s) is not a valid email address."
+msgstr "(%s) ist keine gültige E-Mail-Adresse."
+
+#. translators: %s: Invalid number
+#: includes/wc-checkout-field-functions.php:552
+#: includes/wc-checkout-field-functions.php:555
+msgid "(%s) is not a valid number."
+msgstr "(%s) ist keine gültige Zahl."
+
+#: includes/wc-checkout-field-functions.php:544
+msgid "is a required field."
+msgstr ""
+
+#: includes/wc-checkout-field-functions.php:377
+#: includes/wc-checkout-field-functions.php:420
+#: includes/wc-checkout-field-functions.php:460
+msgid "required"
+msgstr "benötigt"
+
+#: includes/class-wc-checkout-field-editor.php:749
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr "Deine Änderungen wurden wegen eines Fehlers nicht gespeichert (oder du hast nichts geändert!)."
+
+#: includes/class-wc-checkout-field-editor.php:747
+msgid "Your changes were saved."
+msgstr "Deine Änderungen wurden gespeichert."
+
+#: includes/class-wc-checkout-field-editor.php:691
+#: includes/wc-checkout-field-functions.php:481
+msgid "Select some options"
+msgstr "Wähle einige Optionen."
+
+#: includes/class-wc-checkout-field-editor.php:689
+msgid "Select option"
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor.php:553
+msgid "Order Notes"
+msgstr "Bestellhinweise"
+
+#: includes/class-wc-checkout-field-editor.php:530
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: includes/class-wc-checkout-field-editor.php:396
+msgid "This field cannot be modified."
+msgstr "Dieses Feld kann nicht geändert werden."
+
+#: includes/class-wc-checkout-field-editor.php:394
+#: includes/class-wc-checkout-field-editor.php:426
+#: includes/class-wc-checkout-field-editor.php:444
+msgid "This field is address locale dependent and cannot be modified."
+msgstr "Dieses Feld ist vom Standort der Adresse abhängig und kann nicht geändert werden."
+
+#: includes/class-wc-checkout-field-editor.php:271
+#: includes/class-wc-checkout-field-editor.php:447
+msgid "Pipe (|) separate options."
+msgstr "Trenne Optionen durch ein Pipe-Symbol (|)."
+
+#: includes/class-wc-checkout-field-editor.php:233
+msgid "The fields above show beneath the billing and shipping sections on the checkout page."
+msgstr "Die Felder oben werden auf der Bezahlseite unterhalb der Abschnitte zu Rechnung und Versand angezeigt."
+
+#: includes/class-wc-checkout-field-editor.php:230
+msgid "The fields above show in the \"shipping information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "Die Felder oben werden auf der Bezahlseite im Abschnitt „Versandinformationen“ angezeigt. <strong>Das Deaktivieren von Standardfeldern kann bei einigen Plugins zu unerwarteten Ergebnissen führen. Wir raten dir, dies nach Möglichkeit zu vermeiden.</strong>"
+
+#: includes/class-wc-checkout-field-editor.php:227
+msgid "The fields above show in the \"billing information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "Die Felder oben werden auf der Bezahlseite im Abschnitt „Rechnungsinformationen“ angezeigt. <strong>Das Deaktivieren von Standardfeldern kann bei einigen Plugins zu unerwarteten Ergebnissen führen. Wir raten dir, dies nach Möglichkeit zu vermeiden.</strong>"
+
+#: includes/class-wc-checkout-field-editor.php:222
+msgid "Disable/Remove Checked"
+msgstr "Markierte deaktivieren/entfernen"
+
+#: includes/class-wc-checkout-field-editor.php:221
+msgid "Enable Checked"
+msgstr "Markierte aktivieren"
+
+#: includes/class-wc-checkout-field-editor.php:220
+msgid "+ Add field"
+msgstr "+ Feld hinzufügen"
+
+#: includes/class-wc-checkout-field-editor.php:214
+msgid "Display Options"
+msgstr "Anzeige-Optionen"
+
+#: includes/class-wc-checkout-field-editor.php:213
+msgid "Validation Rules"
+msgstr "Validierungsregeln"
+
+#: includes/class-wc-checkout-field-editor.php:211
+msgid "Clear Row"
+msgstr "Zeile löschen"
+
+#: includes/class-wc-checkout-field-editor.php:209
+msgid "Position"
+msgstr "Position"
+
+#: includes/class-wc-checkout-field-editor.php:208
+msgid "Placeholder / Option Values"
+msgstr "Platzhalter/Optionswerte"
+
+#: includes/class-wc-checkout-field-editor.php:207
+msgid "Label"
+msgstr "Beschriftung"
+
+#: includes/class-wc-checkout-field-editor.php:206
+msgid "Type"
+msgstr "Art"
+
+#: includes/class-wc-checkout-field-editor.php:205
+msgid "Name"
+msgstr "Name"
+
+#: includes/class-wc-checkout-field-editor.php:195
+msgid "Order Detail Pages"
+msgstr "Auftragsdetailseiten"
+
+#: includes/class-wc-checkout-field-editor.php:194
+msgid "Emails"
+msgstr "E-Mails"
+
+#: includes/class-wc-checkout-field-editor.php:190
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/class-wc-checkout-field-editor.php:189
+msgid "Full-width"
+msgstr "Volle Breite"
+
+#: includes/class-wc-checkout-field-editor.php:188
+msgid "Left"
+msgstr "Links"
+
+#: includes/class-wc-checkout-field-editor.php:184
+msgid "Heading"
+msgstr "Überschrift"
+
+#: includes/class-wc-checkout-field-editor.php:183
+msgid "Date Picker"
+msgstr "Datumsauswahl"
+
+#: includes/class-wc-checkout-field-editor.php:182
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/class-wc-checkout-field-editor.php:181
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/class-wc-checkout-field-editor.php:180
+msgid "Multiselect"
+msgstr "Mehrfachauswahl"
+
+#: includes/class-wc-checkout-field-editor.php:177
+msgid "Select"
+msgstr "Auswählen"
+
+#: includes/class-wc-checkout-field-editor.php:176
+msgid "Textarea"
+msgstr "Textarea"
+
+#: includes/class-wc-checkout-field-editor.php:175
+msgid "Password"
+msgstr "Passwort"
+
+#: includes/class-wc-checkout-field-editor.php:174
+msgid "Text"
+msgstr "Text"
+
+#: includes/class-wc-checkout-field-editor.php:170
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-wc-checkout-field-editor.php:169
+msgid "Number"
+msgstr "Anzahl"
+
+#: includes/class-wc-checkout-field-editor.php:168
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: includes/class-wc-checkout-field-editor.php:167
+msgid "Required"
+msgstr "Benötigt"
+
+#: includes/class-wc-checkout-field-editor.php:150
+msgid "Fields"
+msgstr "Felder"
+
+#: includes/class-wc-checkout-field-editor.php:128
+msgid "Checkout fields successfully reset"
+msgstr "Die Bezahlfelder wurden zurückgesetzt."
+
+#: includes/class-wc-checkout-field-editor.php:108
+msgid "This tool will remove all customizations made to the checkout fields using the checkout field editor."
+msgstr "Mit diesem Werkzeug werden alle im Bezahlfeldeditor vorgenommenen Anpassungen der Bezahlfelder entfernt."
+
+#: includes/class-wc-checkout-field-editor.php:107
+msgid "Reset Checkout Fields"
+msgstr "Bezahlfelder zurücksetzen"
+
+#: includes/class-wc-checkout-field-editor.php:91
+msgid "Dismiss"
+msgstr "Ausblenden"
+
+#: includes/class-wc-checkout-field-editor.php:91
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/class-wc-checkout-field-editor.php:90
+msgid "Checkout field editor is ready &#8211; Customize your forms below"
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor.php:48
+#: includes/class-wc-checkout-field-editor.php:106
+msgid "Checkout Fields"
+msgstr "Bezahlfelder"
+
+#: includes/class-wc-checkout-field-editor-privacy.php:20
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor-privacy.php:12
+msgid "Checkout Field Editor"
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor-pip-integration.php:56
+msgid "Select which document types should display custom checkout fields."
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor-pip-integration.php:55
+msgid "Custom Checkout Fields"
+msgstr ""
+
+#: includes/class-wc-checkout-field-editor-pip-integration.php:48
+msgid "Checkout Fields Editor"
+msgstr ""

@@ -1,0 +1,277 @@
+/*
+    Template:       airi
+    Theme Name:     Airi Child
+    Theme URI:      http://themeforest.net/user/LA-Studio/portfolio?ref=LA-Studio
+    Author:         LA Studio
+    Author URI:     http://themeforest.net/user/LA-Studio?ref=LA-Studio
+    Description:    Clean, Minimal WooCommerce Theme
+    Version:        1.0
+    Tags:           one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, translation-ready
+    License: 		GNU General Public License
+	License URI: 	licence/GPL.txt
+    Text Domain:    airi-child
+    Domain Path:    /languages/
+*/
+.custom-icon i{
+	border-radius:50%;
+}
+
+@media only screen and (max-width: 1279px){
+	.destop-menu{
+    background-color: #0e304e!important;
+	}
+	
+}
+
+@media only screen and (max-width: 1200px){
+	.lahb-responsive-menu-icon-wrap{
+    background-color:#ffffff!important;
+	}
+	
+}
+.notice.notice-warning{
+	display:none!important;
+}
+/* Desktop min 1200px */
+@media only screen and (min-width:1200px){
+	.menu-header-row div div .lahb-col__center{
+		position:relative;
+	}
+	.menu-header-row div div .lahb-col__center nav{
+		position:absolute;
+		height:80px!important;
+		justify-content:left;
+		top:0px;
+	}
+	
+	.menu-header-row div div .lahb-col__center nav ul li:last-child{
+		background-color:#dd9933;
+	}
+	.menu-header-row div div .lahb-col__center nav ul li:last-child a:hover{
+		color:#0e304e!important;
+	}
+	.menu-header-row div div .lahb-col__center nav ul li:last-child a:before{
+		content: ' ';
+		position:absolute;
+		top:0;
+		left:-15px;
+		height:100%;
+		width:40px;
+		background:#dd9933;
+		transform:skew(20deg);
+		-webkit-transform:skew(20deg);
+	}
+	
+	.woocommerce-checkout .site .site-inner .site-main, .woocommerce-cart .site .site-inner .site-main, .woocommerce-page .site .site-inner .site-main{
+		/*margin-top:80px;*/
+	}
+}
+
+.lazy-background div{
+	border-radius:20% 0; 
+}
+.custom-text{
+	font-size:16px;
+}
+.white-uniq div p {
+	color:white;
+}
+.white-uniq div h1{
+	color:white
+}
+.wpcf7{
+	max-width:430px;
+	display:flex;
+	justify-content:center;
+}
+.wpcf7 form{
+	text-align:center;
+}
+@media only screen and (min-width:1200px){
+	.mainBG{
+		min-height:500px;
+	}
+}
+#main-posts div div div > .vc_custom_heading.vc_gitem-post-data.vc_gitem-post-data-source-post_excerpt{
+	display:none;	
+}
+
+/*Radios*/
+/* Radio yra visu form-check-label*/
+.form-check-label {
+	margin: 16px 0;
+	display: block;
+	cursor: pointer;
+  }
+  .form-check-label input {
+	display: none;
+  }
+  .form-check-label input + span {
+	line-height: 22px;
+	height: 22px;
+	padding-left: 22px;
+	display: block;
+	position: relative;
+  }
+  .form-check-label input + span:not(:empty) {
+	padding-left: 30px;
+  }
+  .form-check-label input + span:before, .form-check-label  input + span:after {
+	content: "";
+	width: 22px;
+	height: 22px;
+	display: block;
+	border-radius: 50%;
+	left: 0;
+	top: 0;
+	position: absolute;
+  }
+  .form-check-label input + span:before {
+	background: #d1d7e3;
+	transition: background 0.2s ease, transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 2);
+  }
+  .form-check-label input + span:after {
+	background: #fff;
+	transform: scale(0.78);
+	transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.4);
+  }
+  .form-check-label input:checked + span:before {
+	transform: scale(1.04);
+	background: #dd9933;
+  }
+  .form-check-label input:checked + span:after {
+	transform: scale(0.4);
+	transition: transform 0.3s ease;
+  }
+  .form-check-label:hover input + span:before {
+	transform: scale(0.92);
+  }
+  .form-check-label:hover input + span:after {
+	transform: scale(0.74);
+  }
+  .form-check-label:hover input:checked + span:after {
+	transform: scale(0.4);
+  }
+  .ppom-wrapper .form-check-label{
+	  margin: 16px 0;
+  }
+  .ppom-option-label-price{
+	  display: none;
+  }
+  .form-check{
+	  margin:auto;
+  }
+  .ppom-wrapper .form-check{
+	  margin-bottom: 0;
+  }
+.product--summary .product_meta > span{
+	display: none;
+}
+/*Extra*/
+.col-ver{
+	height:auto;
+}
+.row__vertical>*{
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+.price-includes{
+	width: 100%;
+    margin: .25rem 0 1.35rem;
+    padding: 0;
+    border: 2px solid var(--color-primary);
+    border-width: 2px 0;
+    border-collapse: collapse;
+}
+.row-price-inc{
+	vertical-align:top;
+}
+.label-price-inc{
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-right: .65rem;
+    width: 32%;
+	
+}
+.label-price-inc, .desc-price-inc{
+	border-bottom: 2px solid var(--color-primary);
+}
+.desc-price-inc{
+	font-size: 15px;
+    line-height: var(--paragraph-lh);
+}
+.list__thick{
+	padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.list__thick>li{
+	position: relative;
+    padding-left: 28px;
+    margin-bottom: 8px;
+    line-height: 20px;
+}
+
+.price-includes tr{
+	border:none;
+}
+.price-includes tr{
+	border-top: 2px #dd9933 solid;
+	border-bottom: 2px #dd9933 solid;
+}
+.price-includes tr td{
+	border:none;
+}
+.list__thick li i{
+	margin-right: 15px;
+	color: #dd9933;
+}
+
+/* Main-page cn skewr*/
+
+.bgcolorskew{
+	
+	transform:skew(0deg, -10deg);
+	margin-top:-8%;
+	padding-top:11%;
+	z-index:-100;
+	overflow:hidden;
+}
+
+
+
+.bgcolorskew .bgd{
+	padding-top:130px;
+	margin-top:-9%;
+}
+
+
+
+.bgcolorskew > .wpb_column{
+	transform:skew(0deg, 10deg);
+}
+
+.colText{
+	color:white;
+}
+.HighLightT{
+	font-weight:bold;
+	color:#dd9933;
+	font-size:18px;
+}
+.site-footer{
+	width:100%;
+	/*max-height:250px;*/
+	margin-top:75px;
+}
+.home .site-content{
+	margin-top:0!important;
+}
+.price-includes li{
+	display:flex;
+}
+.price-includes li p{
+	width:83%;
+}

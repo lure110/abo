@@ -1,0 +1,109 @@
+# Translation of Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-05 11:26:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - FileBird &#8211; WordPress Media Library Folders &amp; File Manager - Development (trunk)\n"
+
+#: includes/Page/Settings.php:39 includes/Page/Settings.php:40
+msgid "FileBird"
+msgstr "FileBird"
+
+#: includes/I18n.php:99
+msgid "Other"
+msgstr "Anderes"
+
+#: includes/I18n.php:102
+msgid "Please tell us which one"
+msgstr "Bitte teile uns den Namen des Plugins mit"
+
+#: includes/Controller/Folder.php:66
+msgid "Get Started"
+msgstr "Erste Schritte"
+
+#: includes/Controller/Folder.php:64
+msgid "Create your first folder for media library now."
+msgstr "Erstelle jetzt deinen ersten Ordner für die Mediathek."
+
+#: includes/I18n.php:120
+msgid "Upgrade to FileBird Pro now"
+msgstr "Wechsle jetzt auf FileBird Pro"
+
+#: includes/I18n.php:57 blocks/filebird-gallery/dist/blocks.build.js:1
+msgid "Folder"
+msgstr "Ordner"
+
+#: includes/Page/Settings.php:70 includes/I18n.php:140
+msgid "Go Pro"
+msgstr "Zu Pro wechseln"
+
+#: includes/I18n.php:93
+msgid "I've purchased FileBird Pro."
+msgstr "Ich habe FileBird Pro gekauft."
+
+#: includes/I18n.php:97
+msgid "Don't know how to use it."
+msgstr "Ich weiß nicht, wie man es benutzt."
+
+#. Description of the plugin
+msgid "Organize thousands of WordPress media files into folders/ categories at ease."
+msgstr "Verwalte problemlos tausende Mediendateien in WordPress dank Ordnern/Kategorien."
+
+#. Author URI of the plugin
+msgid "https://ninjateam.org"
+msgstr "https://ninjateam.org"
+
+#. Author of the plugin
+msgid "Ninja Team"
+msgstr "Ninja Team"
+
+#. Plugin Name of the plugin
+msgid "FileBird Lite"
+msgstr "FileBird Lite"
+
+#: includes/I18n.php:45
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/I18n.php:69
+msgid "All Files"
+msgstr "Alle Dateien"
+
+#: includes/I18n.php:43 includes/I18n.php:59
+msgid "Folders"
+msgstr "Ordner"
+
+#: includes/I18n.php:72
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: includes/I18n.php:62
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#: includes/I18n.php:42
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/I18n.php:41
+msgid "New Folder"
+msgstr "Neuer Ordner"
+
+#: includes/I18n.php:108
+msgid "Folder Limit Reached"
+msgstr "Maximale Anzahl der Ordner erreicht"
+
+#: includes/Model/Folder.php:34 includes/I18n.php:70
+#: includes/Controller/Folder.php:260 includes/Controller/Folder.php:543
+msgid "Uncategorized"
+msgstr "Nicht kategorisiert"
+
+#: includes/I18n.php:40
+msgid "No media files found."
+msgstr "Keine Medien-Dateien gefunden."

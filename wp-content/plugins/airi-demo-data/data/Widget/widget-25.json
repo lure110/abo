@@ -1,0 +1,110 @@
+{
+  "sidebar-primary": {
+    "search-2": {
+      "title": ""
+    },
+    "categories-2": {
+      "title": "",
+      "count": 0,
+      "hierarchical": 0,
+      "dropdown": 0
+    },
+    "recent-posts-2": {
+      "title": "",
+      "number": 5
+    },
+    "recent-comments-2": {
+      "title": "",
+      "number": 5
+    },
+    "woocommerce_product_tag_cloud-2": {
+      "title": "Tags",
+      "classes": ""
+    }
+  },
+  "sidebar-shop-filter": {
+    "woocommerce_product_search-2": {
+      "title": "",
+      "classes": ""
+    },
+    "woocommerce_product_categories-2": {
+      "title": "Categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 0,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": "",
+      "classes": ""
+    },
+    "woocommerce_price_filter-2": {
+      "title": "Price",
+      "classes": ""
+    },
+    "woocommerce_product_tag_cloud-3": {
+      "title": "Tags",
+      "classes": ""
+    }
+  },
+  "f-col-1": {
+    "text-2": {
+      "title": "",
+      "text": "<a href=\"https:\/\/airi.la-studioweb.com\/plants\/\"><img src=\"https:\/\/airi.la-studioweb.com\/plants\/wp-content\/uploads\/sites\/4\/2019\/08\/AIRIPlants-white.png\" alt=\"Airi\" width=\"163\" height=\"13\" \/><\/a>",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 margin-top-50"
+    },
+    "text-3": {
+      "title": "",
+      "text": "His verterem consectetuer consequuntur ne, no virtute atomorum usuu molestie consul",
+      "filter": true,
+      "visual": true,
+      "classes": "margin-bottom-15 element-max-width-280"
+    },
+    "text-4": {
+      "title": "",
+      "text": "[la_social_link]",
+      "filter": true,
+      "visual": true,
+      "classes": "font-size-14 text-color-white"
+    }
+  },
+  "f-col-2": {
+    "nav_menu-2": {
+      "title": "Company",
+      "nav_menu": "Company Navigation",
+      "classes": "font-size-11 h-140"
+    },
+    "nav_menu-3": {
+      "title": "Userful",
+      "nav_menu": "Userful Navigation",
+      "classes": "font-size-11"
+    }
+  },
+  "f-col-3": {
+    "nav_menu-4": {
+      "title": "Popular Categories",
+      "nav_menu": "Popular Categories",
+      "classes": "font-size-11 h-140"
+    },
+    "tag_cloud-2": {
+      "title": "Hot Tags",
+      "count": 0,
+      "taxonomy": "product_tag",
+      "classes": "flat-style"
+    }
+  },
+  "f-col-4": {
+    "custom_html-2": {
+      "title": "Experience App on Mobile",
+      "content": "<a href=\"#\" class=\"visible-inline-block padding-bottom-10\"><img src=\"https:\/\/airi.la-studioweb.com\/plants\/wp-content\/uploads\/sites\/4\/2019\/08\/apple-store.png\" alt=\"Apple Store\" width=\"133\" height=\"39\"\/><\/a><br\/>\r\n<a href=\"#\" class=\"visible-inline-block\"><img src=\"https:\/\/airi.la-studioweb.com\/plants\/wp-content\/uploads\/sites\/4\/2019\/08\/google-play.png\" alt=\"Google Play\" width=\"133\" height=\"39\"\/><\/a>",
+      "classes": "h-140 font-size-11"
+    },
+    "custom_html-3": {
+      "title": "Contact info",
+      "content": "<div class=\"la-contact-info no-icon\">\r\n    <div class=\"la-contact-item la-contact-working-hours\"><span>Open time: 9:00 - 19:00, Monday - Saturday<\/span><\/div>\r\n    <div class=\"la-contact-item la-contact-phone\"><span><a href=\"tel:+548638858343\">Phone: +54.8638.8583.43<\/a><\/span>\r\n    <\/div>\r\n    <div class=\"la-contact-item la-contact-email\"><span><a href=\"mailto:info@la-studioweb.com\">Email: info@la-studioweb.com<\/a><\/span>\r\n    <\/div>\r\n    <div class=\"la-contact-item la-contact-address\">\r\n        <span>Local: 121 King Street, Melbourne Victoria 3000 Australia<\/span><\/div>\r\n<\/div>",
+      "classes": "font-size-11"
+    }
+  }
+}
