@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'uzsakymo_demo1' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Arnas123!' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'database-1.cmxzzrxghbay.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -79,8 +79,8 @@ $table_prefix = 'wp_';
  */
 define( 'WP_DEBUG', false );
 
-define('WP_HOME', 'https://78.60.66.246/');
-define('WP_SITEURL', 'https://78.60.66.246/');
+define('WP_HOME', 'https://main.d1lg3t1d78c4hx.amplifyapp.com');
+define('WP_SITEURL', 'https://main.d1lg3t1d78c4hx.amplifyapp.com');
 $_SERVER['HTTPS'] = 'on';
 $_SERVER['SERVER_PORT'] = 443;
 /* That's all, stop editing! Happy publishing. */
